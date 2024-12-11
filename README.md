@@ -3,7 +3,7 @@
 ## 👋 &nbsp;Hi everyone! I'm Emilio
 
 <p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
-  - I’m a Junior Full-Stack Web Developer & Designer
+  - I’m a **Junior Full-Stack Web Developer & Designer**
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -15,6 +15,13 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=CC6699) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+### 🌟 &nbsp;Projects
+- [FindNest - Vue](https://github.com/EmilioGall/findanest-frontend): A responsive front-end application for finding rental properties, built with Vue.js and Bootstrap for a sleek user interface.
+- [FindNest - Laravel](https://github.com/EmilioGall/findanest-backend): The powerful back-end service for FindNest, developed using Laravel, providing RESTful APIs for seamless data management.
+- [DC Comics - Laravel](https://github.com/EmilioGall/laravel-dc-comics): An engaging web application built with Laravel that showcases DC Comics characters and storylines, complete with user authentication.
+- [Currency Converter - Vue](https://github.com/EmilioGall/vue-currency-converter): A lightweight application to convert currencies in real-time, leveraging external APIs for accurate exchange rates.
+- [Rick&Morty - Vite](https://github.com/EmilioGall/vite-rick-morty): A fun project utilizing Vite to build a fast and responsive application that retrieves character details from the popular TV series Rick and Morty.
+- [Strong Password Validator - JavaScript](https://github.com/EmilioGall/kata-strong-password-validator): A utility for validating the strength of passwords based on specific criteria, enhancing security practices.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
