@@ -3,9 +3,7 @@
 ## 👋 &nbsp;Hi everyone! I'm Emilio
 
 <p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
-  - I’m a [Your Job Title] at [Your Company]
-  - I'm passionate about [Your Interests]
-  - In my free time, I like [Your Hobbies]
+  - I’m a Junior Full-Stack Web Developer & Designer
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -22,8 +20,8 @@
 
 <p >
 <a href="https://github.com/EmilioGall">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KejdiKishta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KejdiKishta&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilioGall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilioGall&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
