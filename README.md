@@ -3,12 +3,12 @@
 ## 👋 &nbsp;Hi everyone! I'm Emilio
 
 <p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
-  - I’m a **Junior Full-Stack Web Developer & Designer**
+  - I’m a <strong>Junior Full-Stack Web Developer & Designer</strong>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <p style="border-radius:5px; padding: 10px; font-weight: bold; font-family: monospace">
-  During my studies in accounting, I had the opportunity to approach the world of programming for the first time, which deeply fascinated me. Later, I decided to pursue in-depth studies in programming and IT. I am attracted to this field beacause of its vastness and constant evolution, offering endless opportunities to create innovative solutions and tackle everyday challenges.
+I studied Design, and while navigating various UX/UI challenges, I rekindled my passion for programming. After several years of gaining experience as a designer, I realized that my true calling lies in the world of development. This realization led me to pursue further studies in programming and IT, drawn in by the vastness and continuous evolution of the field. Development offers countless opportunities to create innovative solutions and address daily challenges, and I am thrilled to embark on this journey where I can blend my design expertise with my growing programming skills.
 </p>
 
 ### 👷‍♂️ &nbsp;Tech Stack
